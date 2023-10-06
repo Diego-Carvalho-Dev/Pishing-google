@@ -1,3 +1,3 @@
-# Cybewr security desafio pishing
+# Cyber security desafio pishing
 
 <img src="capture.png">
